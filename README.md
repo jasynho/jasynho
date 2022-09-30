@@ -2,7 +2,7 @@
 
 🔭 You will find different datascience projects in R and Python here. 
 
-🤓 The focus is on simple and more complex NLP algorithms as well as some code advanced statistics.
+🤓 The focus is on simple and more complex NLP algorithms as well as some code on advanced statistics.
 
 🌱 I’m about to dive deeper into platform development. The dive 🌊 will start in a couple of weeks. 
 
